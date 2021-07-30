@@ -6,7 +6,7 @@
 - 💻 I like to write code
 - 📚 I'm constantly learning new things
 - 💪 I'll do all my best to become a good iOS developer
-- 🧑‍💻 My little blog about Swift: https://t.me/devsafe
+- 🧑‍💻 My little Swift blog: https://t.me/devsafe
 
 ### Connect with me:
 
