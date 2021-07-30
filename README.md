@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, I'm Boris
 
-<!--
-**devsafe/devsafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=devsafe)
 
-Here are some ideas to get you started:
+### I'm a student of GeekBrains University at the faculty of iOS Development
+- 💻 I like to write code
+- 📚 I'm constantly learning new things
+- 💪 I'll do all my best to become a good iOS developer
+- 🧑‍💻 My little blog about Swift: https://t.me/devsafe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="devsafe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="rafinad | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+<br />
+
+
+[instagram]: https://www.instagram.com/devsafe
+[telegram]: https://t.me/rafinad
+<br />
