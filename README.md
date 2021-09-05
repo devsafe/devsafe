@@ -5,7 +5,7 @@
 - 💻 My little Swift blog: https://t.me/devsafe
 <br />
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=devsafe&card_width=550)](https://github.com/devsafe)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devsafe&layout=compact)](https://github.com/devsafe)
 
 ### Connect with me:
 [<img align="left" alt="devsafe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
